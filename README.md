@@ -3,8 +3,6 @@
 
 # Servere
 
-- Pentru aceasta problema, m-am folosit de rezolvarea laboratorului 1, pus la
-dispozitie pe Teams, de catre echipa PA.
 -  Pentru aflarea curentului optim care aplicat serverelor va duce la cea
 mai mare putere minima, vom cauta intre valorile de minim si de maxim ale
 curentilor. 
@@ -77,9 +75,6 @@ cand aveam sume ale secventelor din cele doua siruri egale.
 
 # Criptat
 
-- In cadrul acestei probleme, am folosit integral implementarea algoritmului
-RUCSAC din cadrul laboratorului. 
-(https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-03)
 - Dupa citirea listei de cuvinte, am construit un alfabet care contine maxim
 8 litere, potrivit cerintei. Alfabetul il construim pe baza faptului ca stim
 ca nu vor exista mai mult de 8 litere distincte din care vor fi construite
